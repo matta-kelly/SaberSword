@@ -1,2 +1,4 @@
+# WORK IN PROGRESS
+
 # SaberSword
-Battper pitcher matchup predictor 
+Batter pitcher matchup predictor 
